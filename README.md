@@ -152,7 +152,7 @@ In addition to the main business requests, the following recommended insights we
 
 Explore the live Power BI dashboard for interactive visualizations:
 
-[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZmYjUxOTAtYWViYS00MjAxLTg4YzQtYjE3MDQyNmUxYmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[View Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiOGZmYjUxOTAtYWViYS00MjAxLTg4YzQtYjE3MDQyNmUxYmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://georgebrowncollege-my.sharepoint.com/:u:/g/personal/101497492_georgebrown_ca/EToM9Xzkl0hFqtKbbDwfyS4B6uGV57swc8OfTMtAGzq_5A?email=Sinchan.Sinha%40georgebrown.ca&e=fh5ryf))
 
 ## Future Work
 
